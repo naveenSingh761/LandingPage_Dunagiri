@@ -1,4 +1,4 @@
-<h3>Autthor :</h3>
+<h3>Author :</h3>
 <h1>Naveen Singh</h1>
 
 <h1>To Start Project</h1>
